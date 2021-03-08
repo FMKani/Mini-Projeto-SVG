@@ -68,7 +68,7 @@ Para rodar a aplicação será necessário:
 * [PgAdmin4](https://hub.docker.com/r/dpage/pgadmin4/) 
 * [Postgis](https://hub.docker.com/r/mdillon/postgis)
 
-P.S1: Eu usar recomendo utilizar o [Docker](https://www.docker.com/) para rodar o banco de dados.
+P.S1: Eu recomendo utilizar o [Docker](https://www.docker.com/) para rodar o banco de dados.
 <br>
 
 ```
