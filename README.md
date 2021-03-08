@@ -16,10 +16,10 @@
 </p> 
 
 <p align="center">
-  <a href="#computer-project">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#rocket-built-with">Desenvolvido com</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#information_source-how-to-run">Como exercutar</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#mailbox_with_mail-get-in-touch">Entre em contato</a>
+  <a href="#computer-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#rocket-desenvolvido-com">Desenvolvido com</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#information_source-como-executar">Como executar</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#mailbox_with_mail-contato">contato</a>
  </p>
 
 
@@ -57,7 +57,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 </details>
 
 
-## :information_source: Como exercutar
+## :information_source: Como executar
 
 ### Requirements
 
@@ -108,7 +108,7 @@ DB_DATABASE={nome do banco - case sensitive}
 PORT={porta que a API irá utilizar}
 
 
-## :mailbox_with_mail: Entre em contato!
+## :mailbox_with_mail: Contato!
 
 
 <a href="https://www.linkedin.com/in/wanielton-ferreira" target="_blank" >
