@@ -87,10 +87,14 @@ $ npm i
 # Em seguida execute 
 $ npm start
 
-```
-P.S2: Não esqueça de rodar as imagens do docker 
+# O próximo passo é abrir o documento index.html no seu savegador, e por fim adicionar a cidade que deseja pesquisar 
 
-P.S3: Para conectar com o banco de dados, você precisará entrar com alguams informações de acesso que devem ser postar em um arquivo .env.
+```
+P.S2: Diferentemente do BD do professor, a minha tabela não se chama "municipio", mas sim "municipios". E o campo "nome", preserva a sigla "nm_mun" 
+
+P.S3: Não esqueça de rodar as imagens do docker 
+
+P.S4: Para conectar com o banco de dados, você precisará entrar com alguams informações de acesso que devem ser postar em um arquivo .env.
 
 
 ## Arquivo .env:
