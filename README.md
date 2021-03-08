@@ -73,7 +73,7 @@ P.S1: Eu recomendo utilizar o [Docker](https://www.docker.com/) para rodar o ban
 
 ```
 ### Backend (API-SVG)
-Now clone the repository and install the dependencies.
+Primeiramente clone o repsitório e instale as dependências.
 ```bash
 # Para clonar o repositório
 $ git clone https://github.com/FMKani/Mini-Projeto-SVG.git
@@ -81,7 +81,7 @@ $ git clone https://github.com/FMKani/Mini-Projeto-SVG.git
 # Va para o arquivo da API
 $ cd API-SVG
 
-# Instale as dependencias do backend
+# Instale as dependências do backend
 $ npm i
 
 # Em seguida execute 
