@@ -94,7 +94,7 @@ P.S2: Diferentemente do BD do professor, a minha tabela não se chama "municipio
 
 P.S3: Não esqueça de rodar as imagens do docker 
 
-P.S4: Para conectar com o banco de dados, você precisará entrar com alguams informações de acesso que devem ser postar em um arquivo .env.
+P.S4: Para conectar com o banco de dados, você precisará entrar com algumas informações de acesso que devem ser colocadas em um arquivo .env.
 
 
 ## Arquivo .env:
@@ -117,7 +117,7 @@ PORT={porta que a API irá utilizar}
 
 <a href="https://www.linkedin.com/in/wanielton-ferreira" target="_blank" >
   <img alt="Linkedin - Wanielton Ferreira" src="https://img.shields.io/badge/Linkedin--%23F8952D?style=social&logo=linkedin">
-</a>;
+</a>
 <a href="mailto:wanieltonferreira@gmail.com" target="_blank" >
   <img alt="Email - Wanielton Ferreira" src="https://img.shields.io/badge/Email--%23F8952D?style=social&logo=gmail">
 </a> 
